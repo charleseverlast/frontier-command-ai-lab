@@ -1,0 +1,1 @@
+v0.5A experimental command interpretation. Separate save key. AI-inferred orders require explicit confirmation; exact supported shortcuts remain available. Department simulation not implemented. Browser/WebGPU testing required.
