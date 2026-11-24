@@ -1,0 +1,1 @@
+Frontier Command v0.5A.1 experimental lab. Upload all four files to a new folder. Separate local save. Broad investigation objective recognition plus integrated authorization; Vale operational replies are deterministic for factual safety. Other officers retain AI advisory dialogue. No living station engine yet.
