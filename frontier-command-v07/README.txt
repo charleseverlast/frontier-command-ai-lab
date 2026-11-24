@@ -1,0 +1,1 @@
+v0.7 experimental. Separate storage. Investigate through diagnostic; optional supply drone extends deadline. Select Vale and authorize one recovery branch. Timer uses wall clock, including reload. Outcomes and relationship effects are provisional scripted test values. Developer checkbox reveals engine messages. No actual medical or fleet simulation beyond this incident.
