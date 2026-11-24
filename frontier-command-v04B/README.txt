@@ -1,0 +1,1 @@
+v0.4B experimental: separate save, preliminary directory, 9 proposed supporting officers, model options, expanded response limits and investigation wording. Browser testing required. Department operations, full canon roster, portraits, classified permissions and ship assignments pending. Upload folder separately. Model availability depends on WebLLM runtime and hardware.
